@@ -1,0 +1,4 @@
+interface:
+  display_name: "场景融字导演"
+  short_description: "为封面和创意海报设计大字、语义分行与场景材质融合，兼顾缩略图可读性和构图边界"
+  default_prompt: "使用 $scene-lettering-director，根据我的图片或场景描述，设计醒目且融入画面材质的文字，并给出可直接使用的中文提示词。"
